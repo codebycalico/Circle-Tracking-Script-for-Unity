@@ -1,0 +1,2 @@
+# Circle Tracking Script for Unity
+This is a C# script for Unity that incorporates OpenCV for Unity (the free assets package in the asset store). It uses a webcam and OpenCV to search for circles and track them, moving the mouse's position to the center of the circle's coordinates. There is also a boundary to check within, to only track the circle and move the mouse if the center coordinates of the detected circle lie within the set boundaries.
